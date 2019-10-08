@@ -1,0 +1,47 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "mango people t-shirt",
+    "price": "52.00"
+  },
+  {
+    "id_product": 2,
+    "product_name": "mango men t-shirt",
+    "price": "27.00"
+  },
+  {
+    "id_product": 3,
+    "product_name": "mango women t-shirt",
+    "price": "15.00"
+  },
+  {
+    "id_product": 4,
+    "product_name": "t-shirt",
+    "price": "16.00"
+  },
+  {
+    "id_product": 5,
+    "product_name": "mango child t-shirt",
+    "price": "10.00"
+  },
+  {
+    "id_product": 6,
+    "product_name": "shirt",
+    "price": "43.00"
+  },
+  {
+    "id_product": 7,
+    "product_name": "mango people t-shirt",
+    "price": "22.00"
+  },
+  {
+    "id_product": 8,
+    "product_name": "mango people t-shirt",
+    "price": "31.00"
+  },
+  {
+    "id_product": 9,
+    "product_name": "mango people t-shirt",
+    "price": "31.00"
+  }
+]
